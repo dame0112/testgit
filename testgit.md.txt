@@ -3,5 +3,17 @@ l2 loeovneud;n
 l3 dfh;iukjrnv!
 
 l1-ccckrv 
+<<<<<<< HEAD
 l2 loeryiuii
 l3 dfh;czztyui
+=======
+l2tht
+l3 tnuk
+=======
+loeovneud;n
+l3 dfh;iukjrnv!
+
+loeovneud;n
+l3 dfh;iukjrnv!
+>>>>>>> 3215f5f661cdd8661f03b214f850b1afb4cb42d1
+>>>>>>> b553701ab726c7b1726a6962b406660ff77b2bbe
