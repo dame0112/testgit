@@ -2,6 +2,14 @@ l1-ccckrv
 l2 loeovneud;n
 l3 dfh;iukjrnv!
 
+<<<<<<< HEAD
 l1-ccckrv 
 l2 loeovneud;n
 l3 dfh;iukjrnv!
+=======
+loeovneud;n
+l3 dfh;iukjrnv!
+
+loeovneud;n
+l3 dfh;iukjrnv!
+>>>>>>> 3215f5f661cdd8661f03b214f850b1afb4cb42d1
